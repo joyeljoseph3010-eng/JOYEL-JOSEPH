@@ -10,8 +10,10 @@ print("list element are:")
 for i in range(len(my_marks)):
     print(my_marks[i])
 
+for i in range(len(my_marks)):
+    sum+=my_marks[i]
+        
+
 
     
-    
-
     
